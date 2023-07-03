@@ -1,1 +1,1 @@
-# CSS-Spanish-Color-Vocab-Project
+# Spanish-Color-Vocab-Project
